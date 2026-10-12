@@ -9,6 +9,7 @@ A passionate coding enthusiast and first-year student exploring web development,
 
 ## 💻 Tech Stack:
 <p align="left">
+  
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
   </a>
@@ -21,9 +22,7 @@ A passionate coding enthusiast and first-year student exploring web development,
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" alt="GitHub" title="GitHub" width="36" height="36" />
-  </a>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
   </a>
