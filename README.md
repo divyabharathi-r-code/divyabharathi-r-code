@@ -32,6 +32,12 @@ A passionate coding enthusiast and first-year student exploring web development,
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" alt="NumPy" title="NumPy" width="36" height="36" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" alt="Pandas" title="Pandas" width="36" height="36" />
+</a>
 </p>
 
 
